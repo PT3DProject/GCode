@@ -1,2 +1,7 @@
 */.metadata.json
 .metadata.json
+*.ai
+
+*.svg
+
+*.stl
